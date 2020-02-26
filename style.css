@@ -1,0 +1,17 @@
+body{
+	background: rgb(100,150,50); 
+}
+h1 {
+	background: red;
+	color: blue;
+}
+p {
+	border: 10px solid grey
+	font-family: sans-serif;
+}
+.firstp {
+	font-size: 30px;
+}
+.secondp {
+	font-size: 60px;
+}
